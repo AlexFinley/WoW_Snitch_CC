@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: Snitch_CC
+## Author: Alex Finley
+## Version: 1.0
+## Notes: Prints a message to the chatlog and the Boss Emote whenever a CC is broken
+
+embeds.xml
+main.lua
